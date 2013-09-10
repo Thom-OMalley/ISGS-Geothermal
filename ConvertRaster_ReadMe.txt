@@ -1,0 +1,1 @@
+Converts raster files in a geodatabase to another file type.  Based on the Copy Raster Data Management tool.  Details for the Copy Raster tool and the file formats it can output to can be found here: http://resources.arcgis.com/en/help/main/10.1/index.html#//001700000094000000
